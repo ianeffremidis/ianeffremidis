@@ -8,8 +8,8 @@ I am an aspiring Software-Developer with extensive Senior-Technical-Project-Mana
 
 - 🔭 I’m currently working on my app Runaway-Pets 
 - 🌱 I’m currently learning as much as I can possibly absorb 
-- 📫 How to reach me: ianeffremidis@gmail.com or [Lets go to Quora](https://www.quora.com)
-- ⚡ Fun fact: I can't decide if I am a drummer or a guitarist 
+- 📫 How to reach me: ianeffremidis@gmail.com or [My portfolio website](https://portfolio-page-three-pi.vercel.app/)
+- ⚡ Fun fact: I can't decide if I am a drummer or a guitarist, you can check out some of my music [here](https://linktr.ee/ianeffremidis)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianeffremidis)](https://github.com/anuraghazra/github-readme-stats)
 
