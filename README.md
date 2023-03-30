@@ -6,7 +6,7 @@
 
 I am an aspiring Software-Developer with extensive Senior-Technical-Project-Management experience within the events industry.
 
-- 🔭 I’m currently working on my app Runaway-Pets 
+- 🔭 I’m currently working on my app Runaway-Pets using React JS, Flask Python
 - 🌱 I’m currently learning as much as I can possibly absorb 
 - 📫 How to reach me: ianeffremidis@gmail.com or [My portfolio website](https://portfolio-page-three-pi.vercel.app/)
 - ⚡ Fun fact: I can't decide if I am a drummer or a guitarist, you can check out some of my music [here](https://linktr.ee/ianeffremidis)
