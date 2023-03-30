@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ian!
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/ianeffremidis/ianeffremidis/blob/main/shakeit.jpg)
 
 I am an aspiring Software-Developer with extensive Senior-Technical-Project-Management experience within the events industry.
 
