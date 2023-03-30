@@ -8,7 +8,7 @@ I am an aspiring Software-Developer with extensive Senior-Technical-Project-Mana
 
 - 🔭 I’m currently working on my app Runaway-Pets 
 - 🌱 I’m currently learning as much as I can possibly absorb 
-- 📫 How to reach me: ianeffremidis@gmail.com 
+- 📫 How to reach me: ianeffremidis@gmail.com or [Lets go to Quora](https://www.quora.com)
 - ⚡ Fun fact: I can't decide if I am a drummer or a guitarist 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianeffremidis)](https://github.com/anuraghazra/github-readme-stats)
